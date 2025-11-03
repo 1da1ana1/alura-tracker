@@ -23,3 +23,4 @@ Acesse o projeto e interaja com ele online: [TaskTracker](https://alura-tracker-
 - **Arquitetura:** Component-Based Architecture para reuso e modularização
 - **Boas práticas:** Interfaces reativas, design responsivo, manutenção e escalabilidade do código
 
+<img width="1896" height="767" alt="Captura de tela 2025-11-03 155005" src="https://github.com/user-attachments/assets/b8a5f9a7-ef16-4402-8be6-e7d6bc421e71" />
